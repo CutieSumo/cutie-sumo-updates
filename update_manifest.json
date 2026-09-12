@@ -1,8 +1,8 @@
 {
   "app": "Cutie Sumo Sound Replacer",
-  "version": "4.0.0",
-  "download_url": "https://api.github.com/repos/CutieSumo/cutie-sumo-updates/releases/assets/560081642",
-  "sha256": "a374b570b24ca11a3fcec954d0f868b5f14d35a507427e60255cfe85e58006c0",
+  "version": "4.0.1",
+  "download_url": "https://api.github.com/repos/CutieSumo/cutie-sumo-updates/releases/assets/560084737",
+  "sha256": "b579be4f65a2e099f89d4191d8a7b3a9ac7444a49c4cd577f807a393b0dc3a3b",
   "notes": "Bug fixes and improvements.",
   "target_file": "BNK_WEM_Replacer_Pro.py",
   "manifest_url": "https://raw.githubusercontent.com/CutieSumo/cutie-sumo-updates/main/update_manifest.json"
