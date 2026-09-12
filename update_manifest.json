@@ -3,7 +3,7 @@
   "version": "3.3",
   "download_url": "https://api.github.com/repos/CutieSumo/cutie-sumo-updates/releases/assets/559638452",
   "sha256": "deb708ff0d6ff3e59721a63ad3bc799c7247fad34aeebe8a03a8621b64e37cb4",
-  "notes": "TEST UPDATE - DONT USE",
+  "notes": "TEST UPDATE <DONT USE>",
   "target_file": "BNK_WEM_Replacer_Pro.py",
   "manifest_url": "https://raw.githubusercontent.com/CutieSumo/cutie-sumo-updates/main/update_manifest.json"
 }
