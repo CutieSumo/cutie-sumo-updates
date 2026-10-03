@@ -1,0 +1,11 @@
+{
+  "latest": "3.4.0",
+  "notes": [
+    "* Export now supports Bmod templates",
+    "(Big thanks to @LordShadow505 for making this update)"
+  ],
+  "url": "https://CutieSumo.github.io/cutie-sumo-updates/releases/stable/BNK_WEM_Replacer_Pro-3.4.0.py",
+  "sha256": "19e8a9a2860ba18e1c46f8a39045a21ba9a268c9faefa1865630c1fd3688401c",
+  "size_mb": 1.3,
+  "published": "2026-10-03T05:23:55Z"
+}
