@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "3.4.0",
+      "file": "BNK_WEM_Replacer_Pro-3.4.0.py",
+      "notes": [
+        "* Export now supports Bmod templates",
+        "(Big thanks to @LordShadow505 for making this update)"
+      ],
+      "sha256": "19e8a9a2860ba18e1c46f8a39045a21ba9a268c9faefa1865630c1fd3688401c",
+      "size_mb": 1.3,
+      "published": "2026-10-03T05:23:55Z",
+      "latest": true
+    }
+  ]
+}
